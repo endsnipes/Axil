@@ -1,0 +1,101 @@
+.awesome 
+{
+width: 100%;
+margin: 0 auto;
+padding-top:40px;
+}
+.awesome-main
+{
+    width:1170px;
+    margin: 0 auto;
+}
+.awesome-title
+{
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+align-items: center;
+text-align: center;
+color: #000000;
+}
+.title__line
+{
+    align-items: center;
+    text-align: center;
+}
+.title__text
+{
+font-family: 'Raleway';
+font-style: normal;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+color: #86878B;
+}
+.awesome-block
+{
+width: 100%;
+}
+.block__left
+{
+text-align:center;
+display:inline-block; 
+width:33%;
+}
+.block__centr
+{
+text-align:center;
+display:inline-block; 
+width:33%;
+}
+.block__right
+{
+text-align:center;
+display:inline-block; 
+width:33%;
+}
+.left__title
+{
+font-family: 'Open Sans';
+text-align: center;
+color: #000000;
+}
+.centr__title
+{
+font-family: 'Open Sans';
+text-align: center;
+color: #000000;
+}
+.right_title
+{
+font-family: 'Open Sans';
+text-align: center;
+color: #000000;
+}
+.left__text
+{
+font-family: 'Raleway';
+font-size: 18px;
+line-height: 21px;
+font-weight: 33%;
+color: #000000;
+}
+.centr__text 
+{
+font-family: 'Raleway';
+font-size: 18px;
+line-height: 21px;
+font-weight: 33%;
+color: #000000;
+}
+.right__text
+{
+font-family: 'Raleway';
+font-size: 18px;
+line-height: 21px;
+font-weight: 33%;
+color: #000000;
+}
+

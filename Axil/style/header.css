@@ -1,0 +1,96 @@
+.header{
+width: 100%;
+height: 75px;
+background: #000000;
+}
+.header-logo{
+    display: inline-block;
+    position: absolute;
+    height: 30.69px;
+    left: 115.28px;
+}
+.header-features
+{
+    position:absolute;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    display: flex;
+    justify-content: center;
+    height: 75px;
+    left: 50.99%;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+.header-about
+{
+position:absolute;
+left: 58.53%;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+height: 75px;
+justify-content: center;
+align-items: center;
+text-align: center;
+text-transform: capitalize;
+color: #FFFFFF;
+}
+.header-pricing
+{
+position:absolute;
+height: 75px;
+left: 66.07%;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+text-transform: capitalize;
+color: #FFFFFF;
+}
+.header-reviews
+{
+position:absolute;
+left: 73.67%;
+height: 75px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+text-transform: capitalize;
+color: #FFFFFF;
+}
+.header-contact
+{
+position:absolute;
+left: 81.21%;
+height: 75px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: capitalize;
+color: #FFFFFF;
+
+}

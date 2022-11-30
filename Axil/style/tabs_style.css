@@ -1,0 +1,120 @@
+.tab
+{
+    position: relative;
+    max-width: 1170px;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 60px;
+
+}
+.tabs__line
+{
+    border-top: 1px solid #C6CBCD;
+    margin-left: 203px;
+}
+.tabs__one
+{
+    display: inline-block;
+    width: 203px;
+    height: 40px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    border-width: 1px 1px 1px 1px;
+    border-style: solid solid hidden solid;
+    border-color: #C6CBCD;
+    border-radius: 5px 5px 0 0 ;
+    text-align: center;
+    line-height: 40px; 
+}
+.tabs__two
+{
+    display: inline-block;
+    width: 184px;
+    height: 40px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    line-height: 40px;
+    
+}
+.tabs__tree
+{
+    display: inline-block;
+    width: 184px;
+    height: 40px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    line-height: 40px;
+    
+}
+.tab-all
+{
+max-width: 1170px;
+max-height: 500px;
+border-width: 0px 1px 1px 1px;
+border-style: none solid solid solid;
+border-color: #C6CBCD;
+display: flex;
+justify-content: space-between;
+}
+.tab-main
+{
+    max-width: 700px;
+    max-height: 500px;
+    vertical-align: top; 
+}
+.main__titile
+{ 
+    max-width: 570px;
+    max-height: 124px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 0;
+    line-height: 124px;
+
+
+}
+.main__text
+{
+    max-width: 570px;
+    max-height: 210px;
+    margin-left: 100px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+}
+.main__button
+{
+    border: none;
+    width: 270px;
+    height: 58px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #EC7979;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.tab-image
+{
+    max-width: 470px;
+    max-height: 500px;
+    
+}

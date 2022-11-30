@@ -1,0 +1,190 @@
+.banner{
+    position: relative;
+    background-image:url(../images/banner_back.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 1026px;
+    z-index: 5;
+    padding: 100px 0 50px;
+    
+}
+.banner-left__back
+{
+position: absolute;
+width: 100%;
+height: 1026px;
+left: 0;
+top: 0;
+background-color: rgba(0, 0, 0, 0.5);
+z-index: -1;
+padding: 100px 0 50px;
+background-size: cover;
+background-repeat: no-repeat;
+}
+.banner-left__logo{
+position: absolute;
+width: 270px;
+height: 100px;
+left: 170px;
+top: 283px;
+}
+.banner-left__titile{
+position: absolute;
+left: 11.26%;
+height: 168px;
+width: 670px;
+top: 400px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 56px;
+display: flex;
+align-items: center;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+.banner-left__line{
+position: absolute;
+width: 170px;
+height: 0px;
+left: 170px;
+top: 657px;
+border: 1px solid #FFFFFF;
+}
+.banner-left__text
+{
+position: absolute;
+left: 11.26%;
+right: 70.86%;
+top: 699px;
+bottom: 86.64%;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+}
+.banner-left__button
+{
+box-sizing: border-box;
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+border: 2px solid #FFFFFF;
+}
+.banner-left__buttontext
+{
+    position: absolute;
+    width: 270px;
+    height: 58px;
+    left: 170px;
+    top: 783px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+
+    color: #FFFFFF;
+    box-sizing: border-box;
+    border: 2px solid #FFFFFF;
+}
+.banner-right{
+position: absolute;
+width: 470px;
+height: 450px;
+left: 870px;
+top: 283px;
+background: #FFFFFF;
+border-radius: 10px;
+}
+.banner-right__title
+{
+position: absolute;
+left: 11.28%;
+right: 10.64%;
+top: 0%;
+bottom: 80%;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+color: #333333;
+}
+.right-button{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    color: #BDBDBD;
+}
+.right__titletext
+{
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+color: rgba(236, 121, 121, 1);
+margin-left: 5px;
+margin-right: 5px;
+}
+.right__name{
+    position: absolute;
+    width: 370px;
+    height: 38px;
+    left: 50px;
+    top: 135px;
+}
+.right__email
+{
+position: absolute;
+width: 370px;
+height: 38px;
+left: 50px;
+top: 206px;
+}
+.right__password
+{
+    position: absolute;
+width: 370px;
+height: 38px;
+left: 50px;
+top: 277px;
+}
+.right__button
+{
+position: absolute;
+width: 470px;
+height: 60px;
+top: 390px;
+background: #EC7979;
+border: #FFFFFF;
+border-radius: 0px 0px 10px 10px;
+color: #FFFFFF;
+}

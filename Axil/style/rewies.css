@@ -1,0 +1,253 @@
+.reviews
+{
+
+    height: 630px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 64px;
+}
+.reviews-all{
+
+    max-width: 100%;
+    height: 336px;
+    display: flex;
+    justify-content: center;
+}
+.reviews-title
+{
+    max-width: 100%;
+    height: 150px;
+    margin: 0 auto;
+    text-transform: uppercase;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    text-align: center;
+    line-height: 150px;
+    margin-bottom: 0;
+}
+.reviews-line{
+    border: none;
+    width: 170px;
+    color: #EC7979;
+    background-color: #EC7979;
+    height: 1px;
+    margin: 0 auto;
+}
+.reviews-text
+{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #86878B;
+    text-align: center;
+    margin: 40px 0 83px 0;
+    }
+    .reviews-lcustomer
+    {
+    position: relative;
+    display: inline-block;
+    margin-left: 20px;
+    width: 370px;
+    height: 336px;
+    padding-right: 20px;
+    }
+    /* .reviews-ccustomer
+    {
+    position: relative;
+    display: inline-block;
+    width: 370px;
+    height: 336px;
+    }
+    .reviews-rcustomer
+    {
+    position: relative;
+    display: inline-block;
+    width: 370px;
+    height: 336px;
+    padding-left: 50px;
+    } */
+    .lcustomer__text
+    {
+        width: 370px;
+        height: 180px;
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 21px;
+        background-color: #E2E2E2;
+        color: #86878B;
+        border-radius: 10px;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+    }
+.lcustomer__tr
+{
+top:196px;
+left:70px;
+position: absolute;
+border: 20px solid transparent; 
+border-top: 20px solid  #E2E2E2;
+}
+.lcustomer__icon
+{
+    width: 70px;
+    margin-top: 30px;
+}
+.lcustomer__name{
+    width: 269px;
+    height: 54px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    position: absolute;
+    left: 100px;
+    bottom: 25px;
+}
+.lcustomer__manager
+{
+    width: 270px;
+    height: 21px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    position: absolute;
+    left: 100px;
+    bottom: 10px;
+}
+/* fdf */
+/* .ccustomer__text
+{
+position: absolute;
+width: 370px;
+height: 105px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #86878B;
+background: #E2E2E2;
+border-radius: 10px;
+padding: 5px;
+}
+.ccustomer__tr
+{
+top:120px;
+left:70px;
+position: absolute;
+border: 20px solid transparent; 
+border-top: 20px solid  #E2E2E2;
+}
+.ccustomer__icon
+{
+position: relative;
+display: flex;
+width: 70px;
+height: 70px;
+top:200px;
+}
+.ccustomer__name{
+top:180px;
+left:100px;
+position: absolute;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+color: #000000;
+}
+.ccustomer__manager
+{
+position: absolute;
+top:240px;
+left:100px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+color: #000000;
+}
+/* ff */
+/* .rcustomer__text
+{
+position: absolute;
+width: 370px;
+height: 105px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #86878B;
+background: #E2E2E2;
+border-radius: 10px;
+padding-top: 38px;
+padding-bottom: 37px;
+}
+.rcustomer__tr
+{
+top:120px;
+left:70px;
+position: absolute;
+border: 20px solid transparent; 
+border-top: 20px solid  #E2E2E2;
+}
+.rcustomer__icon
+{
+position: relative;
+display: flex;
+width: 70px;
+height: 70px;
+top:200px;
+}
+.rcustomer__name{
+top:180px;
+left:100px;
+position: absolute;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+color: #000000;
+}
+.rcustomer__manager
+{
+position: absolute;
+top:240px;
+left:100px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+color: #000000;
+}  */
